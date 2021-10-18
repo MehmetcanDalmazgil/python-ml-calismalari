@@ -1,2 +1,3 @@
 # ML_Calismalari
-Makine Öğrenmesi Çalışmaları
+
+1) Lineer Regresyon(Metrekare bilgisine göre ev fiyatını tahmin etme)
